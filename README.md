@@ -7,3 +7,5 @@ This repo is awesome!
 ### Overwatch 2
 
 - Cole Cassidy
+- Reaper
+- Mercy
